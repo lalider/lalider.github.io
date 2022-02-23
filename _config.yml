@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carla Griggio - Research on HCI and Technology-Mediated Communication"
+title                    : "Carla Griggio - HCI and Technology-Mediated Communication"
 title_separator          : "-"
 name                     : &name "Carla Griggio"
 description              : &description "Carla Griggio's academic website"
@@ -83,7 +83,7 @@ author:
   name             : "Carla F. Griggio"
   avatar           : "griggio-1.png"
   bio              : "I'm a Human-Computer Interaction researcher studying communication technologies and how they affect personal relationships. "
-  location         : "From Argentina, living in Aarhus, Denmark."
+  location         : "From Argentina. Living in Denmark."
   employer         : "Aarhus University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=1S79G5AAAAAJ&hl=en"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  # github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
