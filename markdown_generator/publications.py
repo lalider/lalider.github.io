@@ -87,21 +87,23 @@ for row, item in publications.iterrows():
         md += "\npaperurl: '" + item.paper_url + "'"
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
+
+    md += "\nauthors: " + html_escape(item.authors) 
     
-     if len(str(item.video)) > 5:
+    if len(str(item.video)) > 5:
         md += "\nvideo: '" + item.video + "'"
 
     md += "\n---"
     
     ## Markdown description for individual page
     
-    if len(str(item.paper_url)) > 5:
-        md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
+    # if len(str(item.paper_url)) > 5:
+    #     md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
         
-    if len(str(item.excerpt)) > 5:
-        md += "\n" + html_escape(item.excerpt) + "\n"
+    # if len(str(item.excerpt)) > 5:
+    #     md += "\n" + html_escape(item.excerpt) + "\n"
         
-    md += "\nRecommended citation: " + item.citation
+    # md += "\nRecommended citation: " + item.citation
     
     md_filename = os.path.basename(md_filename)
        
