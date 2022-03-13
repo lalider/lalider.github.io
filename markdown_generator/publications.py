@@ -89,6 +89,8 @@ for row, item in publications.iterrows():
     md += "\ncitation: '" + html_escape(item.citation) + "'"
 
     md += "\nauthors: " + html_escape(item.authors) 
+
+    md += "\ntype: " + html_escape(item.type) 
     
     if len(str(item.video)) > 5:
         md += "\nvideo: '" + item.video + "'"

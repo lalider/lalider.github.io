@@ -1,0 +1,12 @@
+---
+title: "Fostering HCI Research in, by, and for Latin America"
+collection: publications
+permalink: /publication/2020-05-01-chi-sig-latam-20
+excerpt: 'Over the last 20 years, the Latin American Human-Computer Interaction (HCI) community has been working to shed light on how the diverse populations in the region are adopting, using, and making sense of computational technologies. Latin America&apos;s tense socio-political context, plurality of languages, collectivist culture, and historical relationship with the Global North make it a unique and rich space for HCI research. Considering the growing number of studies about Latin American communities and the emergent efforts to contribute to the HCI literature, we propose to host a SIG meeting at the 2020 ACM CHI conference. Our goal is to consolidate these efforts to better promote HCI research in, by, and for Latin America, by (1) bringing together researchers, practitioners, and students who are interested in engaging with Latin America through their research and practice, (2) envisioning a shared research agenda, and (3) identifying strategies for making its contributions more visible and impactful in the international community.'
+date: 2020-05-01
+venue: 'CHI EA &apos;20: Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems'
+paperurl: ' https://dl.acm.org/doi/10.1145/3334480.3381055?cid=81500663869'
+citation: 'Adriana Alvarado Garcia, Karla Badillo-Urquiola, Mayra D. Barrera Machuca, Franceli L. Cibrian, Marianela Ciolfi Felice, Laura S. Gaytán-Lugo, Diego Gómez-Zará, Carla F. Griggio, Monica Perusquia-Hernandez, Soraia Silva-Prietch, Carlos E. Tejada, and Marisol Wong-Villacres. 2020. Fostering HCI Research in, by, and for Latin America. In Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems (CHI EA &apos;20). Association for Computing Machinery, New York, NY, USA, 1–4. DOI:https://doi.org/10.1145/3334480.3381055'
+authors: Adriana Alvarado Garcia, Karla Badillo-Urquiola, Mayra D. Barrera Machuca, Franceli L. Cibrian, Marianela Ciolfi Felice, Laura S. Gaytán-Lugo, Diego Gómez-Zará, <strong>Carla F. Griggio</strong>, Monica Perusquia-Hernandez, Soraia Silva-Prietch, Carlos E. Tejada, and Marisol Wong-Villacres
+type: SIG
+---
