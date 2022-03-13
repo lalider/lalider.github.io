@@ -27,7 +27,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+     <span class="publicationType">{{post.type}}</span> <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
     </h2>
     Authors: {{ post.authors }}<br/>
     Published in: <i>{{ post.venue }}</i><br/>
