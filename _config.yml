@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Carla F. Griggio"
   avatar           : "griggio-1.png"
-  bio              : "I'm a Human-Computer Interaction researcher studying technologies for interpersonal communication and building alternatives that grant people more control over how they express themselves and maintain relationships online."
-  location         : "From Argentina 🇦🇷 living in Denmark 🇩🇰"
-  employer         : "Aarhus University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "I study technologies for interpersonal communication and build alternatives that grant people more control over how they maintain relationships online."
+  location         : "From Argentina 🇦🇷"
+  employer         : "Aarhus University, Denmark 🇩🇰"
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=1S79G5AAAAAJ&hl=en"
   email            : "carla@cs.au.dk"
   researchgate     :  https://www.researchgate.net/profile/Carla-Griggio
