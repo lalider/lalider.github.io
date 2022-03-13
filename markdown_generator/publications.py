@@ -88,6 +88,9 @@ for row, item in publications.iterrows():
     
     md += "\ncitation: '" + html_escape(item.citation) + "'"
     
+     if len(str(item.video)) > 5:
+        md += "\nvideo: '" + item.video + "'"
+
     md += "\n---"
     
     ## Markdown description for individual page
