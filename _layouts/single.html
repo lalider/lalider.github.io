@@ -34,10 +34,11 @@ layout: default
           <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time></p>
         {% endif %}
         
+        {% if page.collection == 'publications' %}
           <p>Authors: {{ page.authors }}<br/>
           Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} <br/>
          <a href=" {{ page.paperurl }} ">Get PDF<img src="{{base_path }}/images/pdflogo.jpg" width="25px"></a></p>
-       
+       {% endif %}
    
     
         </header>
