@@ -8,5 +8,5 @@ venue: 'Proceedings of the ACM on Human-Computer Interaction Volume 3, CSCW (Nov
 paperurl: ' https://dl.acm.org/doi/10.1145/3359128?cid=81500663869'
 citation: 'Carla F. Griggio, Joanna McGrenere, and Wendy E. Mackay. 2019. Customizations and Expression Breakdowns in Ecosystems of Communication Apps. <i>Proc. ACM Hum.-Comput. Interact.</i> 3, CSCW, Article 26 (November 2019), 26 pages. DOI:https://doi.org/10.1145/3359128'
 authors: <strong>Carla F. Griggio</strong>, Joanna McGrenere, and Wendy E. Mackay
-type: paper
+type: Research Paper
 ---
