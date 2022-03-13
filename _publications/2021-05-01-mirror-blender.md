@@ -7,7 +7,7 @@ date: 2021-05-01
 venue: 'CHI &apos;21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems'
 paperurl: ' https://dl.acm.org/doi/10.1145/3411764.3445698?cid=81500663869'
 citation: 'Jens Emil Grønbæk, Banu Saatçi, Carla F. Griggio, and Clemens Nylandsted Klokmose. 2021. MirrorBlender: Supporting Hybrid Meetings with a Malleable Video-Conferencing System. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI &apos;21). Association for Computing Machinery, New York, NY, USA, Article 451, 1–13. DOI:https://doi.org/10.1145/3411764.3445698'
-authors: Jens Emil Grønbæk, Banu Saatçi, <em>Carla F. Griggio</em>, and Clemens Nylandsted Klokmose.
+authors: Jens Emil Grønbæk, Banu Saatçi, <strong>Carla F. Griggio</strong>, and Clemens Nylandsted Klokmose.
 video: 9a7fY29qQ2I
 ---
 
