@@ -32,18 +32,9 @@
     Authors: {{ post.authors }}<br/>
     Published in: <i>{{ post.venue }}</i><br/>
     <a href=" {{ post.paperurl }} ">Get PDF<img src="{{base_path }}/images/pdflogo.jpg" width="25px"></a>
-
-    {% if post.video %}
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
-      <iframe width="446" height="250" src="https://www.youtube.com/embed/{{post.video}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </p>
+        {% if post.video %}
+         | <a href="https://www.youtube.com/watch?v={{ post.video }} ">Watch Video<img src="{{base_path }}/images/youtube.jpg" width="25px"></a>
     {% endif %}
-
-
-    {% if post.excerpt %}
-    {{ post.excerpt | markdownify }}
-    {% endif %}
-
 
   </article>
 </div>
