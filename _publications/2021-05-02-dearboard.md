@@ -7,6 +7,7 @@ date: 2021-05-02
 venue: 'CHI &apos;21: Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems'
 paperurl: 'https://dl.acm.org/doi/10.1145/3411764.3445757?cid=81500663869'
 citation: 'Carla F. Griggio, Arissa J. Sato, Wendy E. Mackay, and Koji Yatani. 2021. Mediating Intimacy with DearBoard: a Co-Customizable Keyboard for Everyday Messaging. In Proceedings of the 2021 CHI Conference on Human Factors in Computing Systems (CHI &apos;21).'
+video: https://www.youtube.com/watch?v=hgPL86aaz5Y
 ---
 
 <a href='https://dl.acm.org/doi/10.1145/3411764.3445757?cid=81500663869'>Download paper here</a>
