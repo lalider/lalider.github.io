@@ -46,15 +46,15 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-            {% if post.video %}
+            {% if page.video %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
-      <iframe width="446" height="250" src="https://www.youtube.com/embed/{{post.video}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="446" height="250" src="https://www.youtube.com/embed/{{page.video}}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </p>
     {% endif %}
 
 
-         {% if post.excerpt %}
-        {{ post.excerpt | markdownify }}
+         {% if page.excerpt %}
+        {{ page.excerpt | markdownify }}
         {% endif %}
 
   {% if page.citation and page.paperurl %}
