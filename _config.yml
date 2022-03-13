@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carla Griggio - HCI and Technology-Mediated Communication"
+title                    : "Carla Griggio - HCI & CSCW researcher"
 title_separator          : "-"
 name                     : &name "Carla Griggio"
-description              : &description "Carla Griggio's academic website"
+description              : &description "Carla Griggio's website"
 url                      : https://carlagriggio.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lalider/lalider.github.io"
