@@ -16,7 +16,7 @@ Before starting my current post-doc, I also worked as a post-doc at the Departme
 Latest news:
 =======
 *   I'll be attending [CHI 22 in New Orleans](https://chi2022.acm.org/) to present my latest paper "Caught in the Network: The Impact of WhatsApp’s 2021 Privacy Policy Update on Users’ Messaging App Ecosystems", co-authored by Midas Nouwens and Clemens Klokmose. You can [get the pre-print here](https://carlagriggio.com/files/Caught_in_the_Network_authorversion.pdf). 
-*   I wrote a Medium article summarizing my upcoming [CHI 22 paper](https://carlagriggio.com/files/Caught_in_the_Network_authorversion.pdf): 
+*   I wrote a Medium article summarizing my upcoming [CHI 22 paper](https://carlagriggio.com/files/Caught_in_the_Network_authorversion.pdf). Read [The Great Messaging-App Migration (That Didn’t Really Happen)](https://medium.com/@carlagriggio/the-great-messaging-app-migration-that-didnt-really-happen-56af637bc5d8?source=friends_link&sk=a09f5f32ada41491ec4b9dd894f844d1)
 *   I'll be presenting my work on co-customizations in messaging apps at the [Virtual Social Presence Seminar](https://virtualsocialpresence.com/) on March 21st, 17hs CET.
 *   I'm in the Program Committee of [CSCW 2022](https://cscw.acm.org/2022)
 
