@@ -64,7 +64,7 @@ layout: default
           <p>Recommended citation: {{ page.citation }} </p>
         {% endif %}
 
-        Descripción: {{ content }}
+        {{ content }}
       </section>
 
       <footer class="page__meta">
@@ -74,7 +74,7 @@ layout: default
         {% include page__taxonomy.html %}
       </footer>
 
-      {% include post_pagination.html %}
+      <!-- {% include post_pagination.html %} -->
     </div>
 
     {% if site.comments.provider and page.comments %}
