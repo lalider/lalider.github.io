@@ -19,15 +19,12 @@ Latest news:
 
 * I am teaching a course on UI evaluation methods at the ECI winter school organized by the University of Buenos Aires (UBA): [see details here](https://eci.dc.uba.ar/cursos-eci-2024/).
 
-* I will be giving a talk at the inaugural [Matrix conference](https://2024.matrix.org/schedule/) in Berlin, Germany, titled "The Walled Garden Dilemma: Privacy vs. App Choice in Messaging Ecosystems". The talk will give an overview of my research on ecosystems of messaging apps and what can messaging interoperability learn from this.
+* I will be giving a talk at the inaugural [Matrix conference](https://2024.matrix.org/schedule/) in Berlin, Germany, titled "The Walled Garden Dilemma: Privacy vs. App Choice in Messaging Ecosystems". The talk will give an overview of my research on ecosystems of messaging apps and its implications for messaging interoperability.
 
-*  
-<!-- May 2022:
 
-*   I presented the paper "Caught in the Network: The Impact of WhatsApp’s 2021 Privacy Policy Update on Users’ Messaging App Ecosystems" at [CHI 22 in New Orleans](https://chi2022.acm.org/), co-authored by Midas Nouwens and Clemens Klokmose. You can [get the pre-print here](https://carlagriggio.com/files/Caught_in_the_Network_authorversion.pdf). 
+<!-- May 2022: -->
+
+<!-- *   I presented the paper "Caught in the Network: The Impact of WhatsApp’s 2021 Privacy Policy Update on Users’ Messaging App Ecosystems" at [CHI 22 in New Orleans](https://chi2022.acm.org/), co-authored by Midas Nouwens and Clemens Klokmose. You can [get the pre-print here](https://carlagriggio.com/files/Caught_in_the_Network_authorversion.pdf). 
 *   I wrote a Medium article summarizing my upcoming [CHI 22 paper](https://carlagriggio.com/files/Caught_in_the_Network_authorversion.pdf). Read [The Great Messaging-App Migration (That Didn’t Really Happen)](https://medium.com/@carlagriggio/the-great-messaging-app-migration-that-didnt-really-happen-56af637bc5d8?source=friends_link&sk=a09f5f32ada41491ec4b9dd894f844d1)
 *   I'll be presenting my work on co-customizations in messaging apps at the [Virtual Social Presence Seminar](https://virtualsocialpresence.com/) on March 21st, 17hs CET.
-*   I'm in the Program Committee of [CSCW 2022](https://cscw.acm.org/2022) 
-
-
- -->
+*   I'm in the Program Committee of [CSCW 2022](https://cscw.acm.org/2022)  -->
