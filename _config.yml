@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Carla Griggio - HCI & CSCW researcher"
+title                    : "Carla Griggio"
 title_separator          : "-"
 name                     : &name "Carla Griggio"
 description              : &description "Carla Griggio's website"
