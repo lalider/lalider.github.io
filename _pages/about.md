@@ -16,10 +16,25 @@ Previously, I was a post-doc researcher at the [Department of Computer Science](
 Latest news:
 ======= 
 
+* January 2026: I joined the (SIGCHI Executive Committee as VP for Operations)[https://medium.com/sigchi/new-vice-president-for-operations-0725a86b29f8]. I'm excited and honored to take on this role and will be forming a new Operations team soon. Happy to hear any suggestions regarding the systems and infrastructure that helps run SIGHCI conferences.
 
-* I am teaching a course on UI evaluation methods at the ECI winter school organized by the University of Buenos Aires (UBA): [see details here](https://eci.dc.uba.ar/cursos-eci-2024/).
+* October 2025: I presented two talks at the Matrix Conference 2025: In one talk, I explore how the privacy framework of (Contextual Integrity)[https://www.youtube.com/watch?v=-LDFZ0SfDjk&t=30s] may point to challenges in negotiating values of privacy and safety in interoperable messaging. In the second talk, I present our just accepted paper to PETS 2026, discussing (messaging app users' perceptions of untraceability)[https://www.youtube.com/watch?v=Iz5VotSGmLg]. 
 
-* I will be giving a talk at the inaugural [Matrix conference](https://2024.matrix.org/schedule/) in Berlin, Germany, titled "The Walled Garden Dilemma: Privacy vs. App Choice in Messaging Ecosystems". The talk will give an overview of my research on ecosystems of messaging apps and its implications for messaging interoperability.
+* September 2025: Paper accepted to PETS 2026! ("User Perceptions and Attitudes Toward Untraceability in Messaging Platforms")[https://arxiv.org/abs/2506.11212] with Boel Nelson, Zefan Sramek, Aslan Askarov.
+
+* August 2025: Welcome Stina Olsson to the mInt team! Stina is starting her PhD to investigate challenges of self-presentation in interoperable messaging and its impact on network effects. 
+
+* May 2025: Welcome Xinyuan Liu to the team! Xinyuan is joining me as a PhD student to research peer support groups in social media. He's also partially contributing to the mInt project, focusing on boundary management in interoperable messaging.
+
+* December 2024: The [Independent Research Fund (DFF)](https://dff.dk) awarded me with an Inge Lehmann starting grant for the project: [mInt: Human-centered design principles for effective management of social boundaries in interoperable text messaging platforms](https://www.cs.aau.dk/carla-florencia-griggio-receives-inge-lehmann-grant-n126446). I'm so excited to start forming a research team to explore interaction design and privacy issues surrounding messaging interoperability. The project starts in February 2025. 
+
+* October 2024: I'm starting to co-supervise my first PhD student, Antoine Nollet, in collaboration with Bruno Fruchard and Sylvain Malacria from the (Loki team)[https://loki.lille.inria.fr/people.html] at Inria, Lille. Let the adventure begin!
+
+* October 2024: I am giving a talk at the inaugural [Matrix conference](https://2024.matrix.org/schedule/) in Berlin, Germany, titled ("The Walled Garden Dilemma: Privacy vs. App Choice in Messaging Ecosystems")[https://www.youtube.com/watch?v=0OWAPYS2QIE]. The talk gives an overview of my research on ecosystems of messaging apps and its implications for messaging interoperability.
+
+* July 2024: I am teaching a course on UI evaluation methods at the ECI winter school organized by the University of Buenos Aires (UBA): [see details here](https://eci.dc.uba.ar/cursos-eci-2024/).
+
+
 
 
 <!-- May 2022: -->
