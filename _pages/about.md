@@ -18,6 +18,8 @@ Latest news:
 
 * January 2026: I joined the (SIGCHI Executive Committee as VP for Operations)[https://medium.com/sigchi/new-vice-president-for-operations-0725a86b29f8]. I'm excited and honored to take on this role and will be forming a new Operations team soon. Happy to hear any suggestions regarding the systems and infrastructure that helps run SIGHCI conferences.
 
+* January 2026: Tom Biselli joins me as a postdoc to work on projects related to privacy, safety and interoperability in messaging platforms. Welcome Tom!
+
 * October 2025: I presented two talks at the Matrix Conference 2025: In one talk, I explore how the privacy framework of (Contextual Integrity)[https://www.youtube.com/watch?v=-LDFZ0SfDjk&t=30s] may point to challenges in negotiating values of privacy and safety in interoperable messaging. In the second talk, I present our just accepted paper to PETS 2026, discussing (messaging app users' perceptions of untraceability)[https://www.youtube.com/watch?v=Iz5VotSGmLg]. 
 
 * September 2025: Paper accepted to PETS 2026! ("User Perceptions and Attitudes Toward Untraceability in Messaging Platforms")[https://arxiv.org/abs/2506.11212] with Boel Nelson, Zefan Sramek, Aslan Askarov.
